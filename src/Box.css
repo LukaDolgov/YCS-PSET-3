@@ -1,0 +1,16 @@
+
+/* Box.css */
+.box {
+    width: var(--box-width);
+    height: var(--box-height);
+    background-color: var(--initial-color);
+    position: absolute;
+    margin-left: 39%;
+    margin-top: 30px;
+    transition: background-color 0.3 ease;
+  }
+  
+  .box:hover {
+    background-color: var(--hover-color);
+  }
+  

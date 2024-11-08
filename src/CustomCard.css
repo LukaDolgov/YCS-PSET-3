@@ -1,0 +1,21 @@
+.custom-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    text-align: center;
+    margin-top: 20px; 
+  }
+  
+  
+  .custom-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .custom-card h2 {
+    margin: 10px 0;
+  }
+  
+  .custom-card p {
+    color: #555;
+  }
+  
